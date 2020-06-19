@@ -1,0 +1,20 @@
+{
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushantsurwase8421/nodeproject.git"
+  },
+  "author": "sush",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sushantsurwase8421/nodeproject/issues"
+  },
+  "homepage": "https://github.com/sushantsurwase8421/nodeproject#readme"
+}
